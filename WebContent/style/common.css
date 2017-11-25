@@ -1,0 +1,9 @@
+@charset "utf-8";
+a{
+    text-decoration:none;
+    color:blue;
+}
+a:hover{
+	color:#FF5500;
+	text-decoration:underline;
+}
